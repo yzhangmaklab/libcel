@@ -1,0 +1,16 @@
+1. Simulated Intensities (library/reference): Intensity_1 to Intensity_1123
+
+(a). Intensity_1 to Intensity_1100 are intensities for twisted structures
+     100 twisted for each shape, total 11 shapes.
+(b). Intensity_1101 to Intensity_1111 are intensities for untwisted structures for 
+     11 shapes using lattice constant (a=7.78, b=8.20).
+(c). Intensity_1112 to Intensity_1122 are intensities for untwisted structures for 
+     11 shapes using lattice constant (a=8.19, b=8.20).
+(d). Intensity_1123 is intensity for amorphous structure.
+
+
+2. Experimental Intensities: Intensity_control, Intensity_acid, Intensity_iron
+
+
+3. R is 1/d, the scattering angle
+
